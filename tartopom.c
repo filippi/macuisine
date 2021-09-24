@@ -1,1 +1,1 @@
-printf hello assiette
+sprintf hello assiette
