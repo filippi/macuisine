@@ -1,1 +1,1 @@
-xxxxxsprintf hello assiette
+rintf hello assiette
